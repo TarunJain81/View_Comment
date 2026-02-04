@@ -1,5 +1,5 @@
 
-CREATE OR REPLACE VIEW `catalog-test`.`schema-test`.nyctaxi_daily_summary
+CREATE OR REPLACE VIEW nyctaxi_daily_summary_branch
 (
   trip_date        COMMENT 'Date of the trip (pickup date)',
   trip_count       COMMENT 'Total trips for that day and passenger count',
