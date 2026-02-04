@@ -1,7 +1,7 @@
 
 -- Please edit the sample below
 
-CREATE OR REPLACE VIEW `catalog-test`.`schema-test`.nyctaxi_daily_summary
+CREATE OR REPLACE VIEW nyctaxi_daily_summary
 (
   trip_date,
   trip_count,
